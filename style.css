@@ -37,7 +37,7 @@ body.escurecer::before{
     margin-bottom: 2rem;
 }
 
-header-mobile button{
+.header-mobile button{
     border: none;
     background: none;
     width: fit-content;
@@ -56,7 +56,6 @@ header-mobile button{
     flex-direction: column;
     padding: 1.5rem;
     gap: 1.5rem;
-    display: none;
 
     transition: 0.7s;
 }
